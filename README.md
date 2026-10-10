@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Shanna Aryal 👋
 
-<!--
-**shanna33/shanna33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Python, Django, and REST APIs.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 BSc IT Student
+- 💻 Backend Developer
+- 🌱 Currently learning Redis, Celery, Docker, and System Design
+- 🔍 Looking for internships and backend development opportunities
+
+## 🛠 Tech Stack
+
+### Languages
+- Python
+- SQL
+
+### Backend
+- Django
+- Django REST Framework
+
+### Database
+- PostgreSQL
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- Docker (Learning)
+
+## 🚀 Featured Projects
+
+### Restaurant Management System
+Terminal-based restaurant management application built using Python.
+
+### Task App
+Task management application with CRUD operations.
+
+### Database Project
+Database design and implementation project.
+
+## 📫 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/shanna-aryal-6a5b42364
+- Email: shannaaryal333@gmail.com
