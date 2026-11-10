@@ -39,10 +39,7 @@ Terminal-based restaurant management application built using Python.
 ### Task App
 Task management application with CRUD operations.
 
-### Database Project
-Database design and implementation project.
-
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/shanna-aryal-6a5b42364
-- Email: shannaaryal333@gmail.com
+- Email: shanna3aryal@gmail.com
