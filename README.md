@@ -30,6 +30,9 @@ Backend Developer focused on Python, Django, and REST APIs.
 
 ## 🚀 Featured Projects
 
+### DevTrack – Project & Issue Tracking Platform
+Full-stack project management and issue tracking application built using Django and Django REST Framework, with role-based access control and REST API integration.
+
 ### Restaurant Management System
 Terminal-based restaurant management application built using Python.
 
